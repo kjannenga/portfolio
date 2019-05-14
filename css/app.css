@@ -171,7 +171,9 @@ figure {
 
 img {
   vertical-align: middle;
-  border-style: none; }
+  border-style: none; 
+  width:55%;
+  padding:5%}
 
 svg {
   overflow: hidden;
